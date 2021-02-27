@@ -5,7 +5,7 @@
 - Add multiple map layers to map.
 - Retrieve the earthquake GeoJSON data using D3.json.
 - Create the style data for each of the earthquakes.
-- Add legend and layer control, also create popup circleMarker based on magnitude level.
+- Add legend and layer control, and also create popup circleMarker based on magnitude level.
 
 ## Results
 - HTML page result:
