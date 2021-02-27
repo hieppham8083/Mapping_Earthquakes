@@ -9,4 +9,4 @@
 
 ## Results
 - HTML page result:
-![alt text](../main/Earthquake_Challenge/Screen_Shot_Deliverable3.png "Index.html")
+![alt text](../main/Earthquake_Challenge/ScreenShot_Deliverable3.png "Index.html")
