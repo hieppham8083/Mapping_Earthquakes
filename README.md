@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-- Get a link of GeoJSON data to populate an geographical map about earthquakes using JavaScript,leaflet.js and Mapbox API.. Refer to  https://hieppham8083.github.io/Mapping_Earthquakes/
+- Get a link of GeoJSON data to populate an geographical map about earthquakes using JavaScript,leaflet.js, and Mapbox API. Refer to  https://hieppham8083.github.io/Mapping_Earthquakes/
 
 ## Challenge
 - Add multiple map layers to maps.
